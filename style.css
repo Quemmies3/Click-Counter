@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+    background-color: whitesmoke;
+    color: black;
+}
+
+.main {
+    margin: 100px auto;
+    text-align: center;
+}
+  
+button {
+    padding: 20px;
+    background: transparent;
+    text-shadow: 1px 1px 1px #202020;
+    font-family: "Open Sans", sans-serif;
+    font-size: 20px;
+    border: 1px solid blue;
+    color: blue;
+    cursor: pointer;
+}
+  
